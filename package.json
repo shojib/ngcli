@@ -2,14 +2,14 @@
   "name": "ngcli",
   "author": "shojib1@gmail.com",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "preferGlobal": true,
   "bin": {
-    "ngcli": "bin/ngcli"
+    "ngcli": "bin/ngcli.js"
   },
   "scripts": {
-    "test": "no tests"
+    "test": "ngcli"
   },
   "files": [
     "bin",
