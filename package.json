@@ -1,0 +1,23 @@
+{
+  "name": "ngcli",
+  "author": "shojib1@gmail.com",
+  "license": "MIT",
+  "version": "0.1.0",
+  "description": "",
+  "preferGlobal": true,
+  "bin": {
+    "ngcli": "bin/ngcli"
+  },
+  "scripts": {
+    "test": "no tests"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "dependencies": {
+    "findup-sync": "^0.2.1",
+    "nopt": "^3.0.1",
+    "resolve": "^1.1.0"
+  }
+}
