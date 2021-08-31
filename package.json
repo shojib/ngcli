@@ -8,6 +8,10 @@
   "bin": {
     "ngcli": "bin/ngcli.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shojib/ngcli.git"
+  },
   "scripts": {
     "test": "ngcli"
   },
